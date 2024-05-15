@@ -6,4 +6,4 @@ My background is in the social sciences and statistics, and I've worked as a fre
 
 - 🌱 Learning Python web frameworks, such as FastAPI and Django, Prefect (pipeline orchestration tool), and software dev
 - 🔦 Interested in data engineering, quantitative finance, machine learning, and building cool stuff that solves real-world problems
-- 🚀 Excited to dive into new challenges and collaborations! Feel free to reach out on my social media ([twitter](https://twitter.com/ianvazaraujo)|[linkedin](https://www.linkedin.com/in/ianvazaraujo/). Let’s make something awesome happen!
+- 🚀 Excited to dive into new challenges and collaborations! Feel free to reach out on my social media ([twitter](https://twitter.com/ianvazaraujo) | [linkedin](https://www.linkedin.com/in/ianvazaraujo/)). Let’s make something awesome happen!
