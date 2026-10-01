@@ -1,7 +1,5 @@
 # Ian Vaz Araujo
 
-**AI Engineer · Agent Engineering · GenAI · Data Engineering**
-
 I develop agent workflows, tools and integrations that connect LLMs to databases, APIs and business processes. Working with agents and AI automation is part of my day-to-day engineering, with a broader focus on technology for finance and wealth management.
 
 My background combines social sciences, statistics, data consulting and BI development in the oil industry. I bring that analytical perspective to applied AI: turning business questions into useful software, structured data and repeatable workflows.
