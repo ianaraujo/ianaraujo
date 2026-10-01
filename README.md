@@ -19,7 +19,6 @@ Beyond the public tools below, my project work includes:
 
 - **[Griphook](https://github.com/ianaraujo/griphook)** — Python CLI for AI agents to query Microsoft SQL Server. Includes SQL AST validation to block writes, query limits, timeouts, schema exploration and structured JSON output. Ships with automated tests, a Claude Code skill and a Windows installer workflow.
 - **[n8n-cli](https://github.com/ianaraujo/n8n-cli)** — REST API tooling and a Claude Code skill for inspecting and updating n8n workflows, investigating executions and retrying failures. JSON output and an optional read-only mode support controlled agent interactions.
-- **[code2xml](https://github.com/ianaraujo/code2xml)** — CLI that packages selected source files as XML context for LLMs, supporting code analysis and AI-assisted development.
 
 ### Applied machine learning and data
 
