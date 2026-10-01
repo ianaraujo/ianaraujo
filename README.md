@@ -1,12 +1,21 @@
 # Ian Vaz Araujo
 
-**AI Engineer · Agent Tools · Automation · Data Engineering**
+**AI Engineer · Agent Engineering · GenAI · Data Engineering**
 
-I build tools and integrations that connect AI agents to databases, APIs and business workflows. Working with agents and AI automation is part of my day-to-day engineering, with a broader focus on technology for finance and wealth management.
+I develop agent workflows, tools and integrations that connect LLMs to databases, APIs and business processes. Working with agents and AI automation is part of my day-to-day engineering, with a broader focus on technology for finance and wealth management.
 
 My background combines social sciences, statistics, data consulting and BI development in the oil industry. I bring that analytical perspective to applied AI: turning business questions into useful software, structured data and repeatable workflows.
 
-## Selected projects
+## Engineering practice
+
+Beyond the public tools below, my project work includes:
+
+- **Agent orchestration:** LangGraph and LangChain workflows, tool calling, asynchronous jobs and human review gates.
+- **Agent runtimes:** persisted sessions, event-driven resumption, context compaction, bounded memory and token budgets.
+- **LLM reliability:** typed outputs with Pydantic AI, source-grounded extraction and validation of generated entities and citations.
+- **Observability and delivery:** structured execution traces, token and cost accounting, automated tests and containerized applications.
+
+## Selected public projects
 
 ### Agent tools and LLM workflows
 
@@ -22,8 +31,8 @@ My background combines social sciences, statistics, data consulting and BI devel
 
 ## Technical focus
 
-- **Agents and automation:** tool integration, structured context, JSON interfaces, n8n and Claude Code skills.
-- **Backend and data:** Python, SQL, FastAPI, TypeScript, SQL Server and PostgreSQL.
+- **Agents and automation:** LangGraph, LangChain, Pydantic AI, tool calling, context management, n8n and Claude Code skills.
+- **Backend and data:** Python, SQL, FastAPI, TypeScript, SQL Server, PostgreSQL, SQLAlchemy, Redis and asynchronous workers.
 - **Machine learning:** financial NLP, BERT, Hugging Face Transformers, PyTorch and LoRA.
 - **Infrastructure and analytics:** Docker, GitHub Actions, Databricks, PySpark, AWS S3 and Metabase.
 
